@@ -1,5 +1,5 @@
-Alter table student
+ALTER TABLE Student
 Add email VARCHAR(20) ;
-Alter table student
+ALTER TABLE Student
 Add phonenumber INT(10) ;
 DEaSC student;
